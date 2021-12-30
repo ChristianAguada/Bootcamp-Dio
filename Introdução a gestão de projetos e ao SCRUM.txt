@@ -1,0 +1,88 @@
+Professor Thiago Sano - Gerente digital da Sky Brasil.
+
+Certificações: PSM1 pelo Scrum.org;
+PSPO1 pelo scrum.org;
+PMO pelo PMI
+Formado em processamento de dados pela FATEC.
+MBA gestão em TI na FIAP.
+
+
+Conceitos básicos:
+Desafios do desenvolvimento de software - Cada empresa tem um objetivo de negócio e o software vem para facilitar para atender o objetivo.
+
+Dos objetivos nascem os requisitos.
+
+No processo de gerenciamento tradicional temos:
+
+Processo de desenvolvimento com as etapas:
+Concepção;
+Análise e design;
+Desenvolvimento;
+Testes;
+Implantação.
+
+Depois temos o software que busca ajudar a empresa a atender o objetivo de negócio.
+
+Existe um estudo de que quando um software é implantado apenas 20% é utilizado.
+
+O princípio de pareto aplica-se ao desenvolvimento de software onde 20% das funcionalidades costumam gerar 80% ou mais do benefício esperado.
+
+Gestão de projetos tradicional:
+Waterfall - Só permite que o projeto avance quando uma fase esta inteiramente completa.
+
+Ágil: Software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo)
+
+Em projetos tradicionais voce corre o risco de descobrir que estava errado depois de meses e no ágil voce descobre que estava errado em no máximo 30 dias.
+
+Ágil é diferente de rápido:
+É rapidez na mudança e desembaraço;
+Fazer coisas complexas de forma simples;
+Equipe comprometida com os objetivos;
+Maio valor para o cliente.
+Ter capacidade de responder rapidamente as mudanças.
+
+SCRUM
+É um dos frameworks de gerenciamento de projetos ágeis;
+Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados.
+
+SCRUM
+Pilares: Transparencia, adaptação e inspeção.
+
+COnversar mais e escrever menos;
+Demonstrar o software constantemente aos usuários e obter feedbacks constantes;
+Requisitos mudam ao longo do tempo;
+Aprender progressivamente com o uso do software.
+
+Inspeção (Daily meeting) - O que cada um esta fazendo para atingir o objetivo.
+
+Razões para adotar o SCRUM.
+
+Desenvolvido e entregue em partes menores (2 a 4 semanas com constante feedback aos usuários.)
+Melhor gerenciamento de riscos (Redução de incertezas)
+Comprometimento, motivação e transparência da equipe (Daily meeting)
+Maior valor para o negócio (Priorização do backlog)
+Usuários envolvidos durante todo o ciclo;
+Aplicação das lições aprendidas (Melhoria contínua) - Reunião retrospectiva.
+
+Características do time SCRUM:
+
+Equipes capazes de se auto-organizarem.
+As tarefas são do time e todos são responsáveis.
+Forte comprometimento com os resultados.
+
+As Startups utilizam os projetos ágeis por causa do MVP - Minimo produto viável - O que eu posso entregar de mínimo do meu produto para que o cliente use o software, me de um feedback e possamos aprimorar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

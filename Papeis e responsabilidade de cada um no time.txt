@@ -1,0 +1,52 @@
+Papéis e responsabilidades de cada um no time SCRUM
+
+Product Owner - PO - Representante da área de negócios, define as funcionalidades do Software (Product Backlog), prioriza as funcionalidades de acordo com o valor do negócio (feedback dos usuários), Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário - Explica para o time o que o time precisa fazer para aquela funcionalidade.
+
+
+Scrum Master - SM - Garante o uso correto do SCRUM, garante as cerimonias, fazendo com que o time fique autogerenciado, não é gerente de projetos, age como facilitador (Se o PO não consegue explicar as funcionalidades, ele age como facilitador), auxiliar a remover impedimentos, treina o time em autogerenciamento, aumentando a maturidade da equipe.
+
+Time de desenvolvimento (DEV - de 3 a 10 pessoas) - Habilidades suficientes para desenvolver, testar, criar e desenhar tudo o que for necessário para a entrega do software.
+
+Cerimônias do SCRUM:
+
+Time Box - Tempo máximo definido para fazer um cerimônia ou Sprint.
+
+Sprint - COrrida, arrancada - Duração  de 30 dia corridos ou menos. Quem define é o próprio time.
+Composição: Planejamento Sprint, reuniões diárias (daily meeting), revisão da Sprint (Review) e retrospectiva da Sprint.
+
+Time box para daily meeting - 15 minutos.
+
+Etapa planejamento da Sprint
+Reunião de planejamento - 8 horas de timebox.
+Primeiras 4 horas - Definir o quê fazer - PO explica o que ele deseja naquela SPRINT.
+Demais 4 horas - Como fazer - Time de desenvolvimento quebra as atividades e entende técnicamente o que precisa para fazer e estima as atividades.
+
+Um método é o planning poker.
+
+Quem participa: PO, Scrum master e TIME DEV.
+
+Etapa Reuniões diárias
+
+Quem participa: PO, Scrum master e TIME DEV.
+Time box - 15 minutos - reunião em pé, na mesma hora sempre e local. Stand up meeting.
+
+Apresentação do quadro To do, doing e Done.- Quadro Kanban.
+
+Revisão Sprint - Time DEV apresenta para o PO o Etapa trabalho feito. - Time box de 4 horas em uma spring de 30 dias.
+
+
+
+Etapa Retrospectiva da Spring - Reunião da equipe para lições aprendidas - Transparência.
+Time box de 3 horas para sprint de 30 dias.
+
+
+Gestão tradicional e ágil:
+
+Case estudada Nubank - Define o MVP.
+
+
+
+
+
+
+

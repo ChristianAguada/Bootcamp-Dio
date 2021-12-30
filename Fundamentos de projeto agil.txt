@@ -1,0 +1,48 @@
+Papéis e responsabilidades do PO
+
+Diego Pereira - Gerente de projetos e inovação SKY
+
+Papéis e responsabilidade do PO - Profissional que tem a visão do que será desenvolvido, necessidades a serem atendidas, publico que vai utilizar e os objetivos a serem alcançados.
+
+PO planeja a sprint.
+Controla as metas da sprint.
+Pode cancelar a sprint caso constate que os objetivos não serão atingidos.
+Pode priorizar estudo para criar outra Sprint - SPY
+Cabe a ele controlar e viabilizar outras sprints.
+
+Não existe hierarquia superior entre PO, Scrum Master e Time - Dev. 
+
+O Scrum master é responsavel por disseminar a cultura ágil pelo time.
+
+Refining e Planning
+
+O PO cria e apresenta historias e entrega ao time para que analisem e definam o que deve ser feito para atender aquela historia.
+
+Release Planning - Liberação de software, é o lançamento de uma nova versão oficial de produto de software.
+Quanto mais sprints voce acumula antes de uma release, mais complexa a release será.
+
+Release Planning de Multiplas Squads:
+Release Planning de projeto:
+
+Analisando o escopo e definindo prioridades
+
+Uma forma eficiente é vislumbrar onde queremos chegar e definir as etapas para poder entregar o produto final.
+
+Product Backlog: É composto por épicos e estórias.
+
+Épicos: Incremento sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir.
+
+Estória: Detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer em suas regras de negócio.
+
+
+Papel do PO na transformação digital: 
+
+Transformação digital é um processo no qual as empresas fazem uso da tecnologia para melhorar o desempenho, aumentar o alcance e garantir resultados melhores.
+
+É mostrar para pessoas como funcionam as tecnologias disponíveis, mudar o mindset, forma de pensar a agir das pessoas para poder melhorar o retorno.
+
+
+
+
+
+

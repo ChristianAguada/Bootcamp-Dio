@@ -1,0 +1,72 @@
+Conceitos
+
+Estória vs Tarefas
+
+Objetivo - Construção de uma bicicleta.
+A bicicleta é um conjunto dos épicos: Quadro, freios, rodas, garfo...
+
+o Guidão seria uma estória do épico garfo
+Assim como os pedais seriam uma estória do épico conjunto de tração
+A manópla de freio é uma estória do sistema de freios.
+
+Tarefas
+Para a realização da estória Garfo, precisamos realizar as tarefas, montar o guidão, montar o garfo, montar garfo no quadro, montar a roda no garfo e montar a roda no quadro.
+
+Um épico é um conjunto de Estórias.
+Uma estória é um conjunto de tarefas.
+
+
+Critérios de aceite
+
+É uma lista de critérios que precisam ser alcançados para que a estória atenda os requisitos do usuário e seja aceita pelo PO.
+
+Define os limites para as user stories e ajuda o PO a detalha em alto nível o que é necessário para entregar valor ao cliente.
+
+Estimativa e planejamento.
+
+Planning poker - a mais usada. 
+Deck com sequencia de fibonacci.- É uma atividade de mensuração de esforço e complexidade das tarefas ou estórias.
+
+Uma tarefa simples pode receber 1
+Uma tarefa dificil recebe 13
+Uma tarefa 20 geralmente deve ser quebrada em 2 ou mais
+os times devem argumentar o porque de acharem tão dificil.
+
+Planning Tshirt Size - Outro método.
+
+Relacionamento com clientes / Stakeholders - É uma pessoa ou grupo que legitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização.
+
+Alguns exemplos: Funcionários, gestores, gerentes, proprietários, fornecedores, concorrentes, ONG's, clientes, Estado, credores, sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.
+
+Rotinas de um time ágil:
+
+Ritos
+
+Daily e retrospectiva:
+
+Reunião em pé, sempre no mesmo horário e local. - Para o time de dev's saber o que todos estão fazendo.
+O que eu fiz ontem?
+O que farei hoje?
+Possuo algum impedimento?
+
+Retrospectiva - Acontece somente um vez, na conclusão da Sprint. Importante fazer uma com o PO e outra sem o PO.- Discutido os pontos bons e ruins, oque precisa melhorar.
+
+Refinamento - Cerimonia não oficial do SCRUM - time com o PO discutam como será a proxima sprint - Quais serão as entregas e dúvidas, melhora a qualidade da entrega e o retorno esperado pelo projeto. - O Time de DEV faz perguntas.
+
+Review - Ver o que esta sendo entregue, validar se esta de acordo e se houve alguma mudança, bater com o que foi definido no planning e no refinamento e ver se agrega valor ao projeto.
+
+O Refinamento acontece depois da Retrospectiva e antes da próxima Sprint.
+Maturidade da equipe - Time capaz de vivenciar os pilares do SCRUm - Time que anda sozinho, não depende do Scrum Master.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
